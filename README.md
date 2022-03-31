@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript, React.js etc.**
 
-- 💬 Ask me about **Html, Css maybe Javascript :D**
+- 💬 Ask me about **Html, Css and Javascript **
 
 - 📫 How to reach me **serdarekremcakir@hotmail.com**
 
