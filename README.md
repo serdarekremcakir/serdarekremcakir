@@ -5,13 +5,13 @@
 
 <br>
 
-- 🌱 I’m currently learning **Javascript, React.js etc.**
+- 🌱 I’m currently learning *ASP.NET Core, React.js etc.**
 
 - 💬 Ask me about **Html, Css and Javascript**
 
 - 📫 How to reach me **serdarekremcakir@hotmail.com**
 
-- <ins> 🥅 2022 Goals: Be a better **JavaScipt and React Coder** </ins>
+- <ins> 🥅 2022 Goals: Be a better **ASP.NET Core and React Coder** </ins>
 
 
 <br>
