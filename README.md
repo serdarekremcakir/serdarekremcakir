@@ -5,7 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning *ASP.NET Core, React.js etc.**
+- 🌱 I’m currently learning **ASP.NET Core, React.js etc.**
 
 - 💬 Ask me about **Html, Css and Javascript**
 
