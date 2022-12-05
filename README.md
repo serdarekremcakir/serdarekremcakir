@@ -40,6 +40,6 @@
 
 <br>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serdarekremcakir&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="serdarekremcakir" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serdarekremcakir&layout=compact" />
+
 
