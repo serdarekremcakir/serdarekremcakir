@@ -5,9 +5,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **ASP.NET Core, React.js etc.**
-
-- 💬 Ask me about **Html, Css and Javascript/React**
+- 🌱 I’m currently learning **React.js etc.**
 
 - 📫 How to reach me **serdarekremcakir@hotmail.com**
 
